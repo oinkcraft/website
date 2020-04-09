@@ -1,6 +1,9 @@
 # Oinkcraft Website Repository
 Official repo for the Oinkcraft website
 
+## Repo Structure
+Please make all PRs and fixes to the `develop` branch, NOT the master branch! We will merge to master when the website ends up being updated so that we can keep track of larger updates.
+
 ## Navigation
 
 ### Assets

@@ -1,0 +1,33 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+  margin: 20px 30px;
+}
+
+.update {
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+}
+
+.update-content {
+  margin-left: 10px;
+}
+
+.update-content h3 {
+  margin: 0 0 7px 0;
+}
+
+.thumbnail {
+  width: 200px;
+  height: 110px;
+  overflow: hidden;
+}
+
+.thumbnail img {
+  width: 200px;
+  height: 150px;
+  margin: -20px 0 0 0;
+}
